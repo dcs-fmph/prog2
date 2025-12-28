@@ -1,0 +1,10 @@
+# za | ide text v html, jednotlive riadky treba konzistentne odsadit
+# text sa pouzije na vrchu kazdej stranky pod menu
+# vacsinou dolezite oznamy
+notes: |
+  Vyučujúcich predmetu možno kontaktovať mailom na adresách uvedených na <a href="/prog2/">hlavnej stránke</a>. <em>Hromadná mailová adresa zo zimného semestra v letnom semestri nefunguje.</em><br/>
+
+
+#JavaFX: cesta k adresáru <tt>lib</tt> je pod Linuxom v počítačových učebniach <tt>/usr/share/openjfx/lib</tt>.
+# nepouzite oznamy su zakomentovane
+# treba dokomentovat a spravne odsadit

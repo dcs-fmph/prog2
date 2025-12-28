@@ -1,0 +1,15 @@
+theme: minima
+exclude: [README.md]
+
+# TODO: zmenit skolsky rok podla potreby
+title: 1-INF-166 Programovanie (2) v Jave 2025/26
+short_title: Programovanie
+
+
+lang: sk
+baseurl: "/prog2"
+
+header_pages:
+  - index.md
+  - notes/Pravidla.md
+  - notes/Softver.md
