@@ -14,7 +14,7 @@ Stránka predmetu Programovanie (2) v Jave
 * Shared parts of pages are in [`_includes/head.html`](./_includes/head.html) (html head including styles), [`_includes/header.html`](./_includes/header.html) (top of the page including the menu and annoucements) and [`_includes/footer.html`](./_includes/footer.html) (bottom of the page).
 * [`_config.yml`](./_config.yml) contains configuration including academic year which should be updated
 
-* You can edit the files in github web interface or on your computer and then push the changes to the main branch
+* You can edit the files in github web interface or clone the repository to your computer, edit it there and then push the changes to the main branch
 * After push, GitHub Actions are executed to run Jekyll framework which converts webpage to static HTML. The HTML files are then copied to the web. It takes several minutes for this to happen. You can view progress in Action tab. In case of a failed run you can also search for error messages there.
 
 ## Custom macros
