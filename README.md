@@ -19,7 +19,7 @@ Stránka predmetu Programovanie (2) v Jave
 
 ## Custom macros
 
-* `{% include figure src="name.png" caption="Some caption" width="100px" %}` will add a figure with a caption. The file should be in [`files`](./files) folder. The `width` argument is optional. The figure can be made floating using `<div class="float-right">...</div>`.
+* `{% include figure.html src="name.png" caption="Some caption" width="100px" %}` will add a figure with a caption. The file should be in [`files`](./files) folder. The `width` argument is optional. The figure can be made floating using `<div class="float-right">...</div>`.
 *  [`_data/semester.yaml`](./_data/semester.yaml) contains several weeks, each week given by the dates, content and a list of items (can be empty).
   * Items have field `type` which can be `notes` if it is an `.md` file in `notes` folder, or `file` if it is a file in `files` folder, `text` for just a text or `url` for a link to external website
   * Field `name` of an item is the visible text
