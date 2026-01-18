@@ -10,6 +10,6 @@ lang: sk
 baseurl: "/prog2"
 
 header_pages:
-  - index.md
+  - notes/Prednasky.md
   - notes/Pravidla.md
   - notes/Softver.md
