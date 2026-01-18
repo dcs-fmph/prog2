@@ -15,19 +15,22 @@ weeks:
   - date: '24.2. &ndash; 2.3.'
     content: 'Základy objektovo orientovaného programovania I'
     items:
-      - {type: notes, file: P2, name: 'Prednáška 2'}
+      # - {type: notes, file: P2, name: 'Prednáška 2'}
+      - {type: text, name: 'Prednáška 2'}
       - {type: text, name: 'Cvičenia 2'}
 
   - date: '3.3. &ndash; 9.3.'
     content: ' Základy objektovo orientovaného programovania II'
     items:
-      - {type: notes, file: P3, name: 'Prednáška 3'}
+      # - {type: notes, file: P3, name: 'Prednáška 3'}
+      - {type: text, name: 'Prednáška 3'}
       - {type: text, name: 'Cvičenia 3'}
 
   - date: '10.3. &ndash; 16.3.'
     content: 'Výnimky, generické programovanie'
     items:
-      - {type: notes, file: P4, name: 'Prednáška 4'}
+      # - {type: notes, file: P4, name: 'Prednáška 4'}
+      - {type: text, name: 'Prednáška 4'}
       - {type: text, name: 'Cvičenia 4'}
       - {type: text, name: '<em>Test č. 1</em>'}
       # - {type: notes, file: Riesenia_test_1, name: 'Riešenia úloh z testu'}
@@ -35,13 +38,15 @@ weeks:
   - date: '17.3. &ndash; 23.3.'
     content: 'Java Collections, lokálne a anonymné triedy, iterátory'
     items:
-      - {type: notes, file: P5, name: 'Prednáška 5'}
+      # - {type: notes, file: P5, name: 'Prednáška 5'}
+      - {type: text, name: 'Prednáška 5'}
       - {type: text, name: 'Cvičenia 5'}
 
   - date: '24.3. &ndash; 30.3.'
     content: 'Javadoc, testovanie, JUnit, grafy a grafové algoritmy I'
     items:
-      - {type: notes, file: P6, name: 'Prednáška 6'}
+      # - {type: notes, file: P6, name: 'Prednáška 6'}
+      - {type: text, name: 'Prednáška 6'}
       - {type: text, name: 'Cvičenia 6'}
       - {type: text, name: '<em>Test č. 2</em>'}
       # - {type: notes, file: Riesenia_test_2, name: 'Riešenia úloh z testu'}
@@ -49,13 +54,15 @@ weeks:
   - date: '31.3. &ndash; 6.4.'
     content: 'Grafy a grafové algoritmy II'
     items:
-      - {type: notes, file: P7, name: 'Prednáška 7'}
+      # - {type: notes, file: P7, name: 'Prednáška 7'}
+      - {type: text, name: 'Prednáška 7'}
       - {type: text, name: 'Cvičenia 7'}
  
   - date: '7.4. &ndash; 13.4.'
     content: 'Grafy a grafové algoritmy III'
     items:
-      - {type: notes, file: P8, name: 'Prednáška 8'}
+      # - {type: notes, file: P8, name: 'Prednáška 8'}
+      - {type: text, name: 'Prednáška 8'}
       - {type: text, name: 'Cvičenia 8'}
       - {type: text, name: '<em>Test č. 3</em>'}
       # - {type: notes, file: Riesenia_test_3, name: 'Riešenia úloh z testu'}
@@ -63,7 +70,8 @@ weeks:
   - date: '14.4. &ndash; 20.4.'
     content: 'Lambda výrazy, JavaFX I'
     items:
-      - {type: notes, file: P9, name: 'Prednáška 9'}
+      # - {type: notes, file: P9, name: 'Prednáška 9'}
+      - {type: text, name: 'Prednáška 9'}
       - {type: text, name: 'Cvičenia 9'}
 
   - date: '21.4. &ndash; 27.4.'
@@ -74,7 +82,8 @@ weeks:
   - date: '28.4. &ndash; 4.5.'
     content: 'JavaFX II'
     items:
-      - {type: notes, file: P11, name: 'Prednáška 11'}
+      # - {type: notes, file: P11, name: 'Prednáška 11'}
+      - {type: text, name: 'Prednáška 11'}
       - {type: text, name: 'Cvičenia 11'}
       - {type: text, name: '<em>Test č. 4</em>'}
       # - {type: notes, file: Riesenia_test_4, name: 'Riešenia úloh z testu'}
@@ -82,13 +91,15 @@ weeks:
   - date: '5.5. &ndash; 11.5.'
     content: 'JavaFX III'
     items:
-      - {type: notes, file: P12, name: 'Prednáška 12'}
+      # - {type: notes, file: P12, name: 'Prednáška 12'}
+      - {type: text, name: 'Prednáška 12'}
       - {type: text, name: 'Cvičenia 12'}
 
   - date: '12.5. &ndash; 18.5.'
     content: 'JavaFX IV'
     items:
-      - {type: notes, file: P13, name: 'Prednáška 13'}
+      # - {type: notes, file: P13, name: 'Prednáška 13'}
+      - {type: text, name: 'Prednáška 13'}
       - {type: text, name: 'Cvičenia 13'}
       - {type: text, name: '<em>Náhradný test</em>'}
       # - {type: notes, file: Riesenia_nahradny_test, name: 'Riešenia úloh z testu'}
