@@ -1,3 +1,4 @@
+
 ## Výučba v letnom semestri 2024/2025 
 * **Prednášky**:<br/>
 pondelok, 9:50 &ndash; 11:20, poslucháreň F1 
