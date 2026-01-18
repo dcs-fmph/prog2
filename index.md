@@ -1,3 +1,6 @@
+---
+title:
+---
 
 ## Výučba v letnom semestri 2024/2025 
 * **Prednášky**:<br/>
