@@ -30,7 +30,7 @@ weeks:
       - {type: notes, file: P4, name: 'Prednáška 4'}
       - {type: text, name: 'Cvičenia 4'}
       - {type: text, name: '<em>Test č. 1</em>'}
-      - {type: notes, file: Riesenia_test_1, name: 'Riešenia úloh z testu'}
+      # - {type: notes, file: Riesenia_test_1, name: 'Riešenia úloh z testu'}
 
   - date: '17.3. &ndash; 23.3.'
     content: 'Java Collections, lokálne a anonymné triedy, iterátory'
@@ -44,7 +44,7 @@ weeks:
       - {type: notes, file: P6, name: 'Prednáška 6'}
       - {type: text, name: 'Cvičenia 6'}
       - {type: text, name: '<em>Test č. 2</em>'}
-      - {type: notes, file: Riesenia_test_2, name: 'Riešenia úloh z testu'}
+      # - {type: notes, file: Riesenia_test_2, name: 'Riešenia úloh z testu'}
 
   - date: '31.3. &ndash; 6.4.'
     content: 'Grafy a grafové algoritmy II'
@@ -58,7 +58,7 @@ weeks:
       - {type: notes, file: P8, name: 'Prednáška 8'}
       - {type: text, name: 'Cvičenia 8'}
       - {type: text, name: '<em>Test č. 3</em>'}
-      - {type: notes, file: Riesenia_test_3, name: 'Riešenia úloh z testu'}
+      # - {type: notes, file: Riesenia_test_3, name: 'Riešenia úloh z testu'}
 
   - date: '14.4. &ndash; 20.4.'
     content: 'Lambda výrazy, JavaFX I'
@@ -77,7 +77,7 @@ weeks:
       - {type: notes, file: P11, name: 'Prednáška 11'}
       - {type: text, name: 'Cvičenia 11'}
       - {type: text, name: '<em>Test č. 4</em>'}
-      - {type: notes, file: Riesenia_test_4, name: 'Riešenia úloh z testu'}
+      # - {type: notes, file: Riesenia_test_4, name: 'Riešenia úloh z testu'}
 
   - date: '5.5. &ndash; 11.5.'
     content: 'JavaFX III'
@@ -91,4 +91,4 @@ weeks:
       - {type: notes, file: P13, name: 'Prednáška 13'}
       - {type: text, name: 'Cvičenia 13'}
       - {type: text, name: '<em>Náhradný test</em>'}
-      - {type: notes, file: Riesenia_nahradny_test, name: 'Riešenia úloh z testu'}
+      # - {type: notes, file: Riesenia_nahradny_test, name: 'Riešenia úloh z testu'}
