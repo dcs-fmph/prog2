@@ -1,8 +1,8 @@
 ---
-title: 
+title: Výučba v letnom semestri 2024/2025  
 ---
 
-## Výučba v letnom semestri 2024/2025 
+## Rozvrh
 * **Prednášky**:<br/>
 pondelok, 9:50 &ndash; 11:20, poslucháreň F1 
 * **Cvičenia**:<br/>
@@ -19,3 +19,4 @@ miestnosť M-249<br/>
 * ***Hromadná adresa zo zimného semestra v letnom semestri nefunguje!***
 
 ## Oznamy
+* Študenti zapísaní na predmet, ktorí úspešne absolvovali prerekvizitu *Programovanie (1) v C/C++*, sa môžu prihlásiť na testovači s prihlasovacími údajmi rovnakými ako v zimnom semestri. 
