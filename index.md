@@ -1,7 +1,3 @@
----
-title: Prednášky
----
-
 <table style="width: 100%;"><tbody><tr><td style="vertical-align:top; width: 40%;" markdown="1">
 ## Kontakt na vyučujúcich
 * [Peter Kostolányi](http://www.dcs.fmph.uniba.sk/~kostolanyi/) (prednášky a cvičenia):<br/>
