@@ -2,9 +2,6 @@
 title: Softvér
 ---
 
-* TOC
-{:toc}
-
 Pre účely tohto predmetu budeme potrebovať nasledujúci softvér:
 
   - [Java SE Development
