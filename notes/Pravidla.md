@@ -2,9 +2,6 @@
 title: Pravidlá
 ---
 
-* TOC
-{:toc}
-
 *Na úspešné absolvovanie predmetu je potrebné*:
 
 * Prísť na predmet s úspešne absolvovanou prerekvizitou *1-INF-127, Programovanie (1) v C/C++* (možná výnimka pre študentov neinformatických odborov).
