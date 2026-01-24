@@ -1,5 +1,5 @@
 ---
-title: Textový editor&#58; kompletný zdrojový kód
+title: Textový editor, kompletný zdrojový kód
 ---
 
 
