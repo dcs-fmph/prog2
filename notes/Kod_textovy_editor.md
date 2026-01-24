@@ -3,7 +3,7 @@ title: Textový editor: kompletný zdrojový kód
 ---
 
 
-``` Java
+``` java
 package editor;
 
 import java.io.*;
@@ -331,7 +331,7 @@ public class Editor extends Application {
 }
 ```
 
-``` Java
+``` java
 package editor;
 
 import javafx.scene.text.*;
@@ -367,7 +367,7 @@ public class FontAttributes {
 }
 ```
 
-``` Java
+``` java
 package editor;
 
 import java.util.*;
