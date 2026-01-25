@@ -5,14 +5,13 @@ title: Softvér
 Pre účely tohto predmetu budeme potrebovať nasledujúci softvér:
 
   - [Java SE Development
-    Kit 23](https://www.oracle.com/java/technologies/downloads/) (stačí
+    Kit 25](https://www.oracle.com/java/technologies/downloads/) (stačí
     ľubovoľná verzia od 11 vyššie); pod Linuxom možno použiť aj balíky
     `openjdk`.
-  - [Platformu JavaFX 23](https://gluonhq.com/products/javafx/) SDK
+  - [Platformu JavaFX 25](https://gluonhq.com/products/javafx/) SDK
     (opäť by mala stačiť aj verzia 11) pre vývoj aplikácií s grafickým
     používateľským rozhraním.
-  - Vývojové prostredie [IntelliJ IDEA Community
-    Edition 2024.3.3](https://www.jetbrains.com/idea/download/),
+  - Vývojové prostredie [IntelliJ IDEA 2025.3.2](https://www.jetbrains.com/idea/download/),
     prípadne jeho vhodnú alternatívu.
 
 Odporúčame pracovať vo vývojovom prostredí, avšak je dôležité naučiť sa
@@ -23,7 +22,7 @@ kompilovať a spúšťať programy aj z príkazového riadku (minimálne za
 
   - Stiahnite si
     [odtiaľto](https://www.oracle.com/java/technologies/downloads/)
-    Java SE Development Kit 23 a postupujte podľa inštalačných pokynov.
+    Java SE Development Kit 25 a postupujte podľa inštalačných pokynov.
   - Zistite, či inštalácia správne pridala adresár obsahujúci javovský
     kompilátor a interpreter do systémovej premennej `PATH`. V prípade
     úspechu by napríklad nasledujúce príkazy zadané do príkazového
@@ -40,14 +39,14 @@ kompilovať a spúšťať programy aj z príkazového riadku (minimálne za
     do systémovej premennej `PATH` manuálne (a prípadný adresár starej
     verzie Javy odtiaľ odoberte).
   - Stiahnite si [odtiaľto](https://gluonhq.com/products/javafx/) ZIP
-    archív s JavaFX. Zvoľte verziu 23 a inštaláciu typu SDK pre vašu
+    archív s JavaFX. Zvoľte verziu 25 a inštaláciu typu SDK pre vašu
     architektúru a operačný systém.
   - Rozbaľte stiahnutý archív do vhodného priečinka. Žiadne ďalšie úkony
     nie sú v rámci inštalácie JavaFX nutné, ale zapamätajte si adresu
     podadresára `lib`, keďže ju neskôr budete potrebovať. Nižšie budeme
-    na túto cestu odkazovať ako na <cesta k lib>.
+    na túto cestu odkazovať ako na `<cesta k lib>`.
   - Stiahnite si [odtiaľto](https://www.jetbrains.com/idea/download/)
-    vývojové prostredie IntelliJ IDEA Community Edition 2024.3.3 a
+    vývojové prostredie IntelliJ IDEA 2025.3.2 a
     postupujte podľa inštalačných pokynov.
   - IntelliJ by mal automaticky rozoznať nainštalovanú verziu Javy. V
     prípade, že sa tak neudeje, pridajte ju manuálne podľa pokynov
@@ -130,15 +129,10 @@ Skompilovanie a spustenie triedy `Hello` – alebo presnejšie
 ### V IntelliJ IDEA
 
 1.  Vytvoríme nový projekt pomocou voľby *New Project*.
-      - V najnovšej verzii IntelliJ IDEA Community Edition 2024.3.3
-        *odškrtneme* (ak je zvolená) možnosť „*Add sample code*”, aby
+      - V závislosti od verzie prostredia *odškrtneme* (ak je zvolená) možnosť „*Add sample code*”, aby
         sa po vytvorení projektu automaticky nevygeneroval žiaden
-        zbytočný kód; inak zvolíme východzie nastavenia (jazyk Java,
-        Build system IntelliJ) a zadáme ľubovoľný názov projektu.
-      - V o niečo starších verziách (napr. v počítačovej učebni) najprv
-        v prvých dvoch krokoch použijeme východzie nastavenia (jazyk
-        Java, bez použitia šablóny ani ďalších voliteľných možností), v
-        treťom kroku zadáme ľubovoľný názov projektu.
+        zbytočný kód.
+      - Inak zvolíme východzie nastavenia (jazyk Java, Build system IntelliJ) a zadáme ľubovoľný názov projektu.
 2.  Ak sa nezobrazuje, zobrazíme panel so štruktúrou projektu cez `View
     --> Tool Windows --> Project` (alebo s použitím klávesovej skratky
     `Alt + 1`).
@@ -178,7 +172,7 @@ konfigurácie behu je nasledujúci:
 3.  Následne môžeme v hlavnej časti okna napravo zadať názov
     konfigurácie, napríklad `Konfiguracia`.
 4.  Zadáme potrebné údaje: predvolená by mala byť správna verzia Javy
-    (napr. `java 23`), do políčka `Main class` zadáme názov hlavnej
+    (napr. `java 25`), do políčka `Main class` zadáme názov hlavnej
     triedy projektu (napr. `Hello`), do políčka `Program arguments`
     môžeme zadať prípadné argumenty pre spúšťanú triedu z príkazového
     riadku (políčko môžeme ponechať prázdne). Prípadné ďalšie možnosti
@@ -246,7 +240,7 @@ Viac detailov možno nájsť [tu](https://openjfx.io/openjfx-docs/).
 2.  Otvoríme dialóg `File --> Project Structure...`. V ňom otvoríme
     záložku `Libraries`, klikneme na tlačidlo `+` a zvolíme možnosť
     `Java`. Otvorí sa dialógové okno umožňujúce vytvoriť knižnicu z
-    priečinka. Za tento priečinok vyberieme priečinok <cesta k lib>.
+    priečinka. Za tento priečinok vyberieme priečinok `<cesta k lib>`.
 3.  Vytvoríme konfiguráciu behu podobným spôsobom ako vyššie. Za hlavnú
     triedu vyberieme `HelloFX`.
 4.  Klikneme na `Modify options` a zaškrtneme možnosť `Add VM options`.
