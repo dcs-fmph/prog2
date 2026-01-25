@@ -209,6 +209,7 @@
   color: #bbbbbb;
 }
 .highlight {
-  padding-left: 80px;
+  padding-left: 50px;
   background-color: #f8f8f8;
+  background-origin: content-box;
 }
