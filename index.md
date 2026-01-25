@@ -3,36 +3,36 @@ title: Výučba v letnom semestri 2024/2025
 ---
 
 ## Rozvrh
-<table style="width: 100%;"><tbody><tr><td style="vertical-align:top; width: 33%;" markdown="1">
+<table style="width: 75%;"><tbody><tr><td style="vertical-align:top; width: 25%;" markdown="1">
 * **Prednášky**:<br/>
 pondelok, 9:50 &ndash; 11:20, poslucháreň F1 
 </td>
-<td style="vertical-align:top; width: 33%;" markdown="1">  
+<td style="vertical-align:top; width: 25%;" markdown="1">  
 * **Cvičenia**:<br/>
 utorok, 9:50 &ndash; 11:20, miestnosť I-H6
 </td>
-<td style="vertical-align:top; width: 33%;" markdown="1">
+<td style="vertical-align:top; width: 25%;" markdown="1">
 * Konzultácie po dohode mailom
 </td></tr></tbody></table>
 
 ## Kontakt na vyučujúcich
 
-<table style="width: 100%;"><tbody><tr><td style="vertical-align:top; width: 33%;" markdown="1">
+<table style="width: 75%;"><tbody><tr><td style="vertical-align:top; width: 25%;" markdown="1">
 * [Peter Kostolányi](http://www.dcs.fmph.uniba.sk/~kostolanyi/) (prednášky):<br/>
 miestnosť M-251<br/>
 ![email](./files/E-pk2.png)
 </td></tr>
-<tr><td style="vertical-align:top; width: 33%;" markdown="1">
+<tr><td style="vertical-align:top; width: 25%;" markdown="1">
 * Vincent Hlaváč (cvičenia):<br/>
 miestnosť M-249<br/>
 ![email](./files/E-vh.png) 
 </td>
-<td style="vertical-align:top; width: 33%;" markdown="1">
+<td style="vertical-align:top; width: 25%;" markdown="1">
 * Matúš Matok (cvičenia):<br/>
 miestnosť M-249<br/>
 ![email](./files/E-mm2.png) 
 </td>
-<td style="vertical-align:top; width: 33%;" markdown="1">
+<td style="vertical-align:top; width: 25%;" markdown="1">
 * Andrej Ravinger (cvičenia):<br/>
 miestnosť M-249<br/>
 ![email](./files/E-ar.png) 
