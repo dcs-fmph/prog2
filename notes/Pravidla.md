@@ -25,7 +25,7 @@ V štyroch týždňoch semestra bude *počas cvičení* prebiehať praktický te
 * Na každom z testov sa môžu objaviť úlohy k ľubovoľnej v tom čase už prebranej látke (upresní sa neskôr).
 * Na získanie bodov z testu je potrebná účasť na cvičeniach v danom týždni.
 
-Na posledných cvičeniach 13. mája bude *náhradný test*, ktorý bude možné využiť v prípade neúčasti na niektorom z riadnych termínov testov. V prípade účasti na všetkých riadnych termínoch možno náhradný test využiť aj na opravu najhoršie napísaného testu (náhradný test ale bude v každom prípade zameraný na látku z celého semestra).<!--V prípade *odôvodnenej a ospravedlnenej* neúčasti na viac ako jednom teste bude mechanizmus náhrady stanovený individuálne.-->;
+Na posledných cvičeniach 13. mája bude *náhradný test*, ktorý bude možné využiť v prípade neúčasti na niektorom z riadnych termínov testov. V prípade účasti na všetkých riadnych termínoch možno náhradný test využiť aj na opravu najhoršie napísaného testu (náhradný test ale bude v každom prípade zameraný na látku z celého semestra).
 
 ## Domáce úlohy
 
@@ -65,4 +65,4 @@ Po úspešnom absolvovaní skúšky sa výsledná známka z predmetu za daný sk
 | menej ako 50 bodov            || FX |
 
 
-Táto známka môže byť na základe ústnej časti skúšky pozmenená o jeden stupeň (ale nikdy nie z FX na inú známku). V prípade neúspechu na skúške získava študent v rámci daného skúškového termínu hodnotenie FX.</text>
+Táto známka môže byť na základe ústnej časti skúšky pozmenená o jeden stupeň (ale nikdy nie z FX na inú známku). V prípade neúspechu na skúške získava študent v rámci daného skúškového termínu hodnotenie FX.
