@@ -3,11 +3,17 @@ title: Výučba v letnom semestri 2024/2025
 ---
 
 ## Rozvrh
+<table style="width: 100%;"><tbody><tr><td style="vertical-align:top; width: 33%;" markdown="1">
 * **Prednášky**:<br/>
 pondelok, 9:50 &ndash; 11:20, poslucháreň F1 
+</td>
+<td style="vertical-align:top; width: 33%;" markdown="1">  
 * **Cvičenia**:<br/>
 utorok, 9:50 &ndash; 11:20, miestnosť I-H6
+</td>
+<td style="vertical-align:top; width: 33%;" markdown="1">
 * Konzultácie po dohode mailom
+</td></tr></tbody></table>
 
 ## Kontakt na vyučujúcich
 
@@ -37,5 +43,6 @@ miestnosť M-249<br/>
 ## Oznamy
 <div class="oznam">
 <h4>15. februára 2026, 13:00</h4>
-<p>Študenti zapísaní na predmet, ktorí úspešne absolvovali prerekvizitu *Programovanie (1) v C/C++*, sa môžu prihlásiť na testovači s prihlasovacími údajmi rovnakými ako v zimnom semestri.</p>
+
+Študenti zapísaní na predmet, ktorí úspešne absolvovali prerekvizitu *Programovanie (1) v C/C++*, sa môžu prihlásiť na testovači s prihlasovacími údajmi rovnakými ako v zimnom semestri.
 </div>
