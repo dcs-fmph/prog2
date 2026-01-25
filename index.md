@@ -42,7 +42,7 @@ miestnosť M-249<br/>
 
 ## Oznamy
 <div class="oznam">
-<h4>15. februára 2026, 13:00</h4>
+<h4><strong>15. februára 2026, 13:00</strong></h4>
 
-Študenti zapísaní na predmet, ktorí úspešne absolvovali prerekvizitu *Programovanie (1) v C/C++*, sa môžu prihlásiť na testovači s prihlasovacími údajmi rovnakými ako v zimnom semestri.
+Študenti zapísaní na predmet, ktorí úspešne absolvovali prerekvizitu <i>Programovanie (1) v C/C++</i>, sa môžu prihlásiť na testovači s prihlasovacími údajmi rovnakými ako v zimnom semestri.
 </div>
