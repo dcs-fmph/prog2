@@ -211,6 +211,6 @@
 .highlight {
   background-color: #f8f8f8;
 }
-.highlight div {
+div.highlight {
   margin-left: 40px;
 }
