@@ -101,7 +101,7 @@ weeks:
       # - {type: notes, file: P13, name: 'Prednáška 13'}
       - {type: text, name: 'Prednáška 13'}
       - {type: text, name: 'Cvičenia 13'}
-      - {type: text, name: '<em>Náhradný test</em>'}
+      # - {type: text, name: '<em>Náhradný test</em>'}
       # - {type: notes, file: Riesenia_nahradny_test, name: 'Riešenia úloh z testu'}
 
   - date: '18.5. &ndash; 24.5.'
