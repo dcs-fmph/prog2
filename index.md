@@ -35,4 +35,7 @@ miestnosť M-249<br/>
 * ***Hromadná adresa zo zimného semestra v letnom semestri nefunguje!***
 
 ## Oznamy
-* Študenti zapísaní na predmet, ktorí úspešne absolvovali prerekvizitu *Programovanie (1) v C/C++*, sa môžu prihlásiť na testovači s prihlasovacími údajmi rovnakými ako v zimnom semestri. 
+<div class="oznam">
+<h4>15. februára 2026, 13:00</h4>
+<p>Študenti zapísaní na predmet, ktorí úspešne absolvovali prerekvizitu *Programovanie (1) v C/C++*, sa môžu prihlásiť na testovači s prihlasovacími údajmi rovnakými ako v zimnom semestri.</p>
+</div>
