@@ -2,7 +2,9 @@
 title: Pravidlá
 ---
 
-*Na úspešné absolvovanie predmetu je potrebné*:
+Pravidlá predmetu budú upresnené pred začiatkom semestra.
+
+<!--*Na úspešné absolvovanie predmetu je potrebné*:
 
 * Prísť na predmet s úspešne absolvovanou prerekvizitou *1-INF-127, Programovanie (1) v C/C++* (možná výnimka pre študentov neinformatických odborov).
 * Získať za semester a skúšku dohromady aspoň 50 bodov z plného počtu 100 bodov.
@@ -65,4 +67,4 @@ Po úspešnom absolvovaní skúšky sa výsledná známka z predmetu za daný sk
 | menej ako 50 bodov            || FX |
 
 
-Táto známka môže byť na základe ústnej časti skúšky pozmenená o jeden stupeň (ale nikdy nie z FX na inú známku). V prípade neúspechu na skúške získava študent v rámci daného skúškového termínu hodnotenie FX.
+Táto známka môže byť na základe ústnej časti skúšky pozmenená o jeden stupeň (ale nikdy nie z FX na inú známku). V prípade neúspechu na skúške získava študent v rámci daného skúškového termínu hodnotenie FX.-->
