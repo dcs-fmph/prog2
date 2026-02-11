@@ -71,6 +71,6 @@ Po úspešnom absolvovaní skúšky sa výsledná známka z predmetu za daný sk
 | aspoň 60 a menej ako 70 bodov | | | D  | 
 | aspoň 50 a menej ako 60 bodov | | | E  | 
 | menej ako 50 bodov            | | | FX |
-|-------------------------------|-|-|----|
 
+<br/>
 Táto známka môže byť na základe ústnej časti skúšky v ojedinelých prípadoch pozmenená o jeden stupeň (ale nikdy nie z FX na inú známku). V prípade neúspechu na skúške získava študent v rámci daného skúškového termínu hodnotenie FX.
