@@ -41,6 +41,7 @@ weeks:
       # - {type: notes, file: P5, name: 'Prednáška 5'}
       - {type: text, name: 'Prednáška 5'}
       - {type: text, name: 'Cvičenia 5'}
+      - {type: text, name: '<em>Zverejnenie zadaní DÚ 1</em>'}
 
   - date: '23.3. &ndash; 29.3.'
     content: 'Javadoc, testovanie, JUnit, grafy a grafové algoritmy I'
@@ -85,6 +86,7 @@ weeks:
       - {type: text, name: 'Cvičenia 11'}
       - {type: text, name: '<em>Test č. 3</em>'}
       # - {type: notes, file: Riesenia_test_3, name: 'Riešenia úloh z testu'}
+      - {type: text, name: '<em>Zverejnenie zadaní DÚ 2</em>'}
 
   - date: '4.5. &ndash; 10.5.'
     content: 'JavaFX III'
