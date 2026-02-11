@@ -32,7 +32,7 @@ weeks:
       # - {type: notes, file: P4, name: 'Prednáška 4'}
       - {type: text, name: 'Prednáška 4'}
       - {type: text, name: 'Cvičenia 4'}
-      # - {type: text, name: '<em>Test č. 1</em>'}
+      - {type: text, name: '<em>Test č. 1</em>'}
       # - {type: notes, file: Riesenia_test_1, name: 'Riešenia úloh z testu'}
 
   - date: '16.3. &ndash; 22.3.'
@@ -48,8 +48,6 @@ weeks:
       # - {type: notes, file: P6, name: 'Prednáška 6'}
       - {type: text, name: 'Prednáška 6'}
       - {type: text, name: 'Cvičenia 6'}
-      # - {type: text, name: '<em>Test č. 2</em>'}
-      # - {type: notes, file: Riesenia_test_2, name: 'Riešenia úloh z testu'}
 
   - date: '30.3. &ndash; 5.4.'
     content: 'Grafy a grafové algoritmy II'
@@ -61,7 +59,7 @@ weeks:
   - date: '6.4. &ndash; 12.4.'
     content: 'Veľkonočný pondelok'
     items:
-      - {type: text, name: 'Cvičenia 8'}
+      # - {type: text, name: 'Cvičenia 8'}
       
   - date: '13.4. &ndash; 19.4.'
     content: 'Grafy a grafové algoritmy III'
@@ -69,8 +67,8 @@ weeks:
       # - {type: notes, file: P9, name: 'Prednáška 9'}
       - {type: text, name: 'Prednáška 9'}
       - {type: text, name: 'Cvičenia 9'}
-      # - {type: text, name: '<em>Test č. 3</em>'}
-      # - {type: notes, file: Riesenia_test_3, name: 'Riešenia úloh z testu'}
+      - {type: text, name: '<em>Test č. 2</em>'}
+      # - {type: notes, file: Riesenia_test_2, name: 'Riešenia úloh z testu'}
 
   - date: '20.4. &ndash; 26.4.'
     content: 'Lambda výrazy, JavaFX I'
@@ -85,8 +83,8 @@ weeks:
       # - {type: notes, file: P11, name: 'Prednáška 11'}
       - {type: text, name: 'Prednáška 11'}
       - {type: text, name: 'Cvičenia 11'}
-      # - {type: text, name: '<em>Test č. 4</em>'}
-      # - {type: notes, file: Riesenia_test_4, name: 'Riešenia úloh z testu'}
+      - {type: text, name: '<em>Test č. 3</em>'}
+      # - {type: notes, file: Riesenia_test_3, name: 'Riešenia úloh z testu'}
 
   - date: '4.5. &ndash; 10.5.'
     content: 'JavaFX III'
@@ -101,8 +99,10 @@ weeks:
       # - {type: notes, file: P13, name: 'Prednáška 13'}
       - {type: text, name: 'Prednáška 13'}
       - {type: text, name: 'Cvičenia 13'}
-      # - {type: text, name: '<em>Náhradný test</em>'}
-      # - {type: notes, file: Riesenia_nahradny_test, name: 'Riešenia úloh z testu'}
-
+      
   - date: '18.5. &ndash; 24.5.'
-    content: 'Priestor na konzultácie'  
+    content: 'Semestrálna písomka a náhradný test'  
+    items:
+      - {type: text, name: '<em>Semestrálna písomka</em>'}
+      - {type: text, name: '<em>Náhradný test</em>'}
+      # - {type: notes, file: Riesenia_nahradny_test, name: 'Riešenia úloh z testu'}
