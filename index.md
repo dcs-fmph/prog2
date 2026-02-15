@@ -41,14 +41,9 @@ miestnosť M-249<br/>
 * ***Hromadná adresa zo zimného semestra v letnom semestri nefunguje!***
 
 ## Oznamy
+
 <div class="oznam">
-<h4>3. februára 2026, 9:15</h4>
+<h4>15. februára 2026, 8:15</h4>
 
-Momentálne nie sú žiadne oznamy.
+Študenti zapísaní na predmet v AISe, ktorí úspešne absolvovali prerekvizitu <i>Programovanie (1) v C/C++</i>, sa môžu prihlásiť na testovači s prihlasovacími údajmi rovnakými ako v zimnom semestri (resp. minulý rok).
 </div>
-
-<!--<div class="oznam">
-<h4>15. februára 2026, 13:00</h4>
-
-Študenti zapísaní na predmet, ktorí úspešne absolvovali prerekvizitu <i>Programovanie (1) v C/C++</i>, sa môžu prihlásiť na testovači s prihlasovacími údajmi rovnakými ako v zimnom semestri.
-</div>-->
