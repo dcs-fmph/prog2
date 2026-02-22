@@ -15,8 +15,7 @@ weeks:
   - date: '23.2. &ndash; 1.3.'
     content: 'Základy objektovo orientovaného programovania I'
     items:
-      # - {type: notes, file: P2, name: 'Prednáška 2'}
-      - {type: text, name: 'Prednáška 2'}
+      - {type: notes, file: P2, name: 'Prednáška 2'}
       - {type: text, name: 'Cvičenia 2'}
 
   - date: '2.3. &ndash; 8.3.'
