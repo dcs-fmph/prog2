@@ -43,7 +43,7 @@ miestnosť M-249<br/>
 ## Oznamy
 
 <div class="oznam">
-<h4>15. februára 2026, 8:15</h4>
+<h4>1. marca 2026, 11:40</h4>
 
-Študenti zapísaní na predmet v AISe, ktorí úspešne absolvovali prerekvizitu <i>Programovanie (1) v C/C++</i>, sa môžu prihlásiť na testovači s prihlasovacími údajmi rovnakými ako v zimnom semestri (resp. minulý rok).
+Počas štvrtých cvičení &ndash; čiže **v utorok 10. marca od 9:50 do 11:20** &ndash; bude prebiehať prvý test zameraný na látku z prvých troch týždňov semestra. Body z testu bude možné získať iba v prípade prítomnosti na cvičeniach v miestnosti I-H6.
 </div>
