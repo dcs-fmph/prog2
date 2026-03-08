@@ -27,8 +27,7 @@ weeks:
   - date: '9.3. &ndash; 15.3.'
     content: 'Výnimky, generické programovanie'
     items:
-      # - {type: notes, file: P4, name: 'Prednáška 4'}
-      - {type: text, name: 'Prednáška 4'}
+      - {type: notes, file: P4, name: 'Prednáška 4'}
       - {type: text, name: 'Cvičenia 4'}
       - {type: text, name: '<em>Test č. 1</em>'}
       # - {type: notes, file: Riesenia_test_1, name: 'Riešenia úloh z testu'}
