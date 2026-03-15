@@ -45,5 +45,5 @@ miestnosť M-249<br/>
 <div class="oznam">
 <h4>15. marca 2026, 9:00</h4>
 
-V <strong>utorok 17. marca</strong> &ndash; budú zverejnené zadania prvej domácej úlohy.
+V <strong>utorok 17. marca</strong> budú zverejnené zadania prvej domácej úlohy.
 </div>
