@@ -35,8 +35,7 @@ weeks:
   - date: '16.3. &ndash; 22.3.'
     content: 'Java Collections, lokálne a anonymné triedy, iterátory'
     items:
-      # - {type: notes, file: P5, name: 'Prednáška 5'}
-      - {type: text, name: 'Prednáška 5'}
+      - {type: notes, file: P5, name: 'Prednáška 5'}
       - {type: text, name: 'Cvičenia 5'}
       - {type: text, name: '<em>Zverejnenie zadaní DÚ 1</em>'}
 
