@@ -43,7 +43,7 @@ miestnosť M-249<br/>
 ## Oznamy
 
 <div class="oznam">
-<h4>1. marca 2026, 11:40</h4>
+<h4>15. marca 2026, 9:00</h4>
 
-Počas štvrtých cvičení &ndash; čiže <strong>v utorok 10. marca od 9:50 do 11:20</strong> &ndash; bude prebiehať prvý test zameraný na látku z prvých troch týždňov semestra. Body z testu bude možné získať iba v prípade prítomnosti na cvičeniach v miestnosti I-H6.
+V <strong>v utorok 17. marca</strong> &ndash; budú zverejnené zadania prvej domácej úlohy.
 </div>
