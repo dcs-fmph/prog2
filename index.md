@@ -43,7 +43,7 @@ miestnosť M-249<br/>
 ## Oznamy
 
 <div class="oznam">
-<h4>15. marca 2026, 9:00</h4>
+<h4>17. marca 2026, 19:50</h4>
 
-V <strong>utorok 17. marca</strong> budú zverejnené zadania prvej domácej úlohy.
+Na testovači bolo zverejnené zadanie prvej domácej úlohy. Riešenia je potrebné odovzdať najneskôr <strong>do utorka 31. marca, 9:50</strong> (čiže do začiatku siedmych cvičení).
 </div>
