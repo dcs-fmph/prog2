@@ -42,8 +42,7 @@ weeks:
   - date: '23.3. &ndash; 29.3.'
     content: 'Javadoc, testovanie, JUnit, grafy a grafové algoritmy I'
     items:
-      # - {type: notes, file: P6, name: 'Prednáška 6'}
-      - {type: text, name: 'Prednáška 6'}
+      - {type: notes, file: P6, name: 'Prednáška 6'}
       - {type: text, name: 'Cvičenia 6'}
 
   - date: '30.3. &ndash; 5.4.'
