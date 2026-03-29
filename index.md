@@ -43,6 +43,12 @@ miestnosť M-249<br/>
 ## Oznamy
 
 <div class="oznam">
+<h4>29. marca 2026, 12:25</h4>
+
+Počas deviatych cvičení &ndash; čiže <strong>v utorok 14. apríla od 9:50 do 11:20</strong> &ndash; bude prebiehať druhý test zameraný na látku z prvých siedmich týždňov semestra.
+</div>
+
+<div class="oznam">
 <h4>17. marca 2026, 19:50</h4>
 
 Na testovači bolo zverejnené zadanie prvej domácej úlohy. Riešenia je potrebné odovzdať najneskôr <strong>do utorka 31. marca, 9:50</strong> (čiže do začiatku siedmych cvičení).
