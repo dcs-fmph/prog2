@@ -48,8 +48,7 @@ weeks:
   - date: '30.3. &ndash; 5.4.'
     content: 'Grafy a grafové algoritmy II'
     items:
-      # - {type: notes, file: P7, name: 'Prednáška 7'}
-      - {type: text, name: 'Prednáška 7'}
+      - {type: notes, file: P7, name: 'Prednáška 7'}
       - {type: text, name: 'Cvičenia 7'}
  
   - date: '6.4. &ndash; 12.4.'
