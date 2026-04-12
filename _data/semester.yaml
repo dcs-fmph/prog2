@@ -59,8 +59,7 @@ weeks:
   - date: '13.4. &ndash; 19.4.'
     content: 'Grafy a grafové algoritmy III'
     items:
-      # - {type: notes, file: P9, name: 'Prednáška 9'}
-      - {type: text, name: 'Prednáška 9'}
+      - {type: notes, file: P9, name: 'Prednáška 9'}
       - {type: text, name: 'Cvičenia 9'}
       - {type: text, name: '<em>Test č. 2</em>'}
       # - {type: notes, file: Riesenia_test_2, name: 'Riešenia úloh z testu'}
