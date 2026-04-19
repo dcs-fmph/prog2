@@ -51,5 +51,5 @@ Počas jedenástych cvičení &ndash; čiže <strong>v utorok 28. apríla od 9:5
 <div class="oznam">
 <h4>19. apríla 2026, 9:30</h4>
 
-Na fakultných počítačoch v učebniach je pod Linuxom na prácu s JavaFX potrebné použiť nasledujúcu cestu k adresáru `lib`: `/usr/share/openjfx/lib`.
+Na fakultných počítačoch v učebniach je pod Linuxom na prácu s JavaFX potrebné použiť nasledujúcu cestu k adresáru <tt>lib</tt>: <tt>/usr/share/openjfx/lib</tt>.
 </div>
