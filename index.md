@@ -43,13 +43,13 @@ miestnosť M-249<br/>
 ## Oznamy
 
 <div class="oznam">
-<h4>9. apríla 2026, 14:00</h4>
+<h4>19. apríla 2026, 9:30</h4>
 
-Najneskôr do začiatku deviatych cvičení &ndash; čiže <strong>do utorka 14. apríla, 9:50</strong> &ndash; je možné odovzdať opravené riešenia prvej domácej úlohy.
+Počas jedenástych cvičení &ndash; čiže <strong>v utorok 28. apríla od 9:50 do 11:20</strong> &ndash; bude prebiehať tretí test zameraný na látku z prvých desiatich týždňov semestra.
 </div>
 
 <div class="oznam">
-<h4>29. marca 2026, 12:25</h4>
+<h4>19. apríla 2026, 9:30</h4>
 
-Počas deviatych cvičení &ndash; čiže <strong>v utorok 14. apríla od 9:50 do 11:20</strong> &ndash; bude prebiehať druhý test zameraný na látku z prvých siedmich týždňov semestra.
+Na fakultných počítačoch v učebniach je pod Linuxom na prácu s JavaFX potrebné použiť nasledujúcu cestu k adresáru `lib`: `/usr/share/openjfx/lib`.
 </div>
