@@ -67,8 +67,7 @@ weeks:
   - date: '20.4. &ndash; 26.4.'
     content: 'Lambda výrazy, JavaFX I'
     items:
-      # - {type: notes, file: P10, name: 'Prednáška 10'}
-      - {type: text, name: 'Prednáška 10'}
+      - {type: notes, file: P10, name: 'Prednáška 10'}
       - {type: text, name: 'Cvičenia 10'}
 
   - date: '27.4. &ndash; 3.5.'
