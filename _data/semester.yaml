@@ -73,8 +73,7 @@ weeks:
   - date: '27.4. &ndash; 3.5.'
     content: 'JavaFX II'
     items:
-      # - {type: notes, file: P11, name: 'Prednáška 11'}
-      - {type: text, name: 'Prednáška 11'}
+      - {type: notes, file: P11, name: 'Prednáška 11'}
       - {type: text, name: 'Cvičenia 11'}
       - {type: text, name: '<em>Test č. 3</em>'}
       # - {type: notes, file: Riesenia_test_3, name: 'Riešenia úloh z testu'}
