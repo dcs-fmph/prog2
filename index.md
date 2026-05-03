@@ -43,21 +43,15 @@ miestnosť M-249<br/>
 ## Oznamy
 
 <div class="oznam">
+<h4>3. mája 2026, 9:35</h4>
+
+Na testovači je zverejnené zadanie druhej domácej úlohy.
+</div>
+
+<div class="oznam">
 <h4>26. apríla 2026, 10:15</h4>
 
 V AISe bolo vypísaných niekoľko skúškových termínov, na ktoré sa možno prihlasovať od 27. apríla, 12:00. V čase predtermínu ešte nemusí byť opravený náhradný test, ani opravné odovzdania druhej domácej úlohy.
-</div>
-
-<div class="oznam">
-<h4>26. apríla 2026, 10:15</h4>
-
-V utorok 28. apríla bude zverejnené zadanie druhej domácej úlohy.
-</div>
-
-<div class="oznam">
-<h4>19. apríla 2026, 9:30</h4>
-
-Počas jedenástych cvičení &ndash; čiže <strong>v utorok 28. apríla od 9:50 do 11:20</strong> &ndash; bude prebiehať tretí test zameraný na látku z prvých desiatich týždňov semestra.
 </div>
 
 <div class="oznam">
