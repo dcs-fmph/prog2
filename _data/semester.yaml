@@ -88,8 +88,7 @@ weeks:
   - date: '11.5. &ndash; 17.5.'
     content: 'JavaFX IV'
     items:
-      # - {type: notes, file: P13, name: 'Prednáška 13'}
-      - {type: text, name: 'Prednáška 13'}
+      - {type: notes, file: P13, name: 'Prednáška 13'}
       - {type: text, name: 'Cvičenia 13'}
       
   - date: '18.5. &ndash; 24.5.'
