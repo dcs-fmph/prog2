@@ -43,6 +43,18 @@ miestnosť M-249<br/>
 ## Oznamy
 
 <div class="oznam">
+<h4>10. mája 2026, 10:25</h4>
+
+Počas štrnástych cvičení &ndash; čiže <strong>v utorok 19. mája od 9:50</strong> &ndash; bude v miestnosti I-H6 prebiehať náhradný test.
+</div>
+
+<div class="oznam">
+<h4>10. mája 2026, 10:25</h4>
+
+V čase štrnástej prednášky &ndash; čiže <strong>v pondelok 18. mája o 9:50</strong> v miestnosti F1-328 &ndash; bude semestrálna písomka.
+</div>
+
+<div class="oznam">
 <h4>3. mája 2026, 9:35</h4>
 
 Na testovači je zverejnené zadanie druhej domácej úlohy.
